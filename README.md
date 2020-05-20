@@ -25,6 +25,9 @@ This project is dependent on below libraries:
 - Matplotlib
 - scikit-learn
 
+## Note
+This project details is published on [Medium](https://medium.com/@dipan.cs/starbucks-capstone-challenge-fe039e1ae782). A special thanks to Starbucks and Udacity for providing the dataset for this project. 
+
 ## Reference
 - [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
