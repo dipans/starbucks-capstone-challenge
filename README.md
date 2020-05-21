@@ -11,6 +11,7 @@ Dataset then goes under a curation process to create training and testing datase
   - portfolio.json
   - profile.json
   - transcript.json
+- Project_Proposal.pdf
 - Starbucks_Caspstone_notebook.ipynb: Implementation of reading, cleaning, and preparing test data; training and testing model; benchmarking result
 - Project_Report.pdf: Process details that was taken for this challenge
 - pic1.png: Instruction image used in notebook
